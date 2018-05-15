@@ -15,6 +15,7 @@ layout: post
 ## Pages
 
 <a href="/about">About us</a><br/>
+<a href="/oath">The Scout Oath and Troop 38</a><br/>
 <a href="/calendar">Calendar</a><br/>
 <a href="/calendar-archive">Calendar archive</a><br/>
 <a href="/eagles">Our Eagles</a><br/>
