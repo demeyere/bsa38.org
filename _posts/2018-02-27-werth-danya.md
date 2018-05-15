@@ -8,7 +8,7 @@ url: http://www.longfellownokomismessenger.com/eagle-scout-celebrated-at-holy-tr
 
 # Eagle Scout celebrated at Holy Trinity Lutheran Church
 
-<img src="werth-danya-1.jpg" style="border:1px solid black;" />
+<img src="/files/werth-danya-1.jpg" style="border:1px solid black;" />
 
 Photo caption: The new community oven at Holy Trinity Lutheran Church was fired up to almost 900 degrees in its inaugural run on May 20. Constructing the oven was the project of Eagle Scout Danya Werth. (Photo by Margie O’Loughlin)
 
@@ -18,7 +18,7 @@ An Eagle Scout Court of Honor was held for Longfellow resident Danya Werth on Ma
 
 A recent graduate of South High School, Danya’s journey toward this day of celebration started when he joined Troop \#38 in third grade. He attended weekly den meetings with his family. Former den mother Karen Kemp, said, “The family was notable from the beginning because they always came together on their bikes: Danya; his younger brother, Anton; his mother, Karen Vierstraete Werth; and his father, Gerry Werth.”
 
-<img src="werth-danya-2.jpg" style="border:1px solid black;" />
+<img src="/files/werth-danya-2.jpg" style="border:1px solid black;" />
 
 Photo caption: Danya Werth in front of the community oven he built to earn his Eagle Scout award. His mother, Karen Vierstraete Werth, is pictured at left. (Photo by Margie O’Loughlin)*
 
