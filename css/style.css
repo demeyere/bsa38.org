@@ -1,10 +1,10 @@
 /*   
-Theme Name: aslak.se
-Theme URI: http://aslak.se/
-Description: aslak.se
+Theme Name: bsa38.org
+Theme URI: http://bsa38.org/
+Description: BSA 38
 Author: Ross DeMeyere
 Author URI: http://demeyere.com/
-Version: 2018-02-01 09:05 
+Version: 2018-05-15 11:35 
 */
 
 
@@ -111,19 +111,19 @@ section.content-area {
 
 /* footer section ========================================================== */
 
-footer.aslak {
+footer.bsa38 {
   background-color:#006da6;
   }
-footer.aslak div.container {
+footer.bsa38 div.container {
   padding-top: 50px;
   padding-bottom: 50px;
   }
-footer.aslak p {
+footer.bsa38 p {
   color: #ffffff;
  /* font-size: 12px; line-height: 14px; */
   font-weight: bold;
   }
-footer.aslak p.tagline {
+footer.bsa38 p.tagline {
   font-family: "ff-more-web-pro",serif;
   font-style: italic;
   font-weight: 400;
@@ -131,16 +131,16 @@ footer.aslak p.tagline {
  /* font-size: 14px; line-height: 16px; */
   font-style: italic;
   }
-footer.aslak a, footer.aslak a:visited {
+footer.bsa38 a, footer.bsa38 a:visited {
   color: #ffffff;
   text-decoration: none;
   }
-footer.aslak a:hover, footer.aslak a:active {
+footer.bsa38 a:hover, footer.bsa38 a:active {
   color: #ffffff;
   text-decoration: underline;
   }
 
-footer.aslak p.kategorier-list {
+footer.bsa38 p.kategorier-list {
   font-weight:normal;
   }
 
@@ -384,7 +384,7 @@ a:hover.social-font {
 
 /* buttonry colours ========================================================= */
 
-.btn-aslak {
+.btn-bsa38 {
   background-color: #006da6;
   border-color: #006da6;
   color: #ffffff;
