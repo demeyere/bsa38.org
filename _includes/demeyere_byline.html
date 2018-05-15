@@ -1,0 +1,16 @@
+<p class="byline">
+<a class="btn btn-primary btn-xs" href="{{ post.url }}">{{ post.url }}</a> 
+
+{% for category in post.categories %}
+<span class="category">
+<a class='btn btn-primary btn-xs btn-warning' href=''>{{ category }}</a> 
+</span>
+{% endfor %}
+
+{% for tag in post.tags %}
+<span class="tag">
+<a class='btn btn-primary btn-xs btn-info' href=''>{{ tag }}</a> 
+</span>
+{% endfor %}
+
+<!-- /.byline --></p>

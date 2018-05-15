@@ -1,0 +1,5 @@
+name: Ross DeMeyere
+markdown: kramdown
+permalink: /:year/:title
+paginate: 13
+include: ["_pages","_posts"]

@@ -1,0 +1,23 @@
+{% include header.html %}
+
+<section class="content-area"><div class="container">
+<div class="row"> 
+<div class="col-md-12">
+
+{% for post in paginator.posts %}
+<article class="{{ post.class }}" >
+{{ post.content }}
+</article>
+<!--  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+{% endfor %}
+
+{{ content }}
+
+{% include demeyere_bootstrap_pagination.html %}
+
+<!-- /.col-md-12 --></div>
+<!-- /.row --></div>
+<!-- /.content-area --></div></section>
+
+{% include footer.html %}
