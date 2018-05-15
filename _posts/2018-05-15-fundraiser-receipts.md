@@ -1,6 +1,6 @@
 ---
 layout: post
-title: fundraiser receipts 
+title: Fundraiser receipts 
 date: 2018-05-15
 ---
 

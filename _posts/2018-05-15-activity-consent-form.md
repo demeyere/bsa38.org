@@ -1,6 +1,6 @@
 ---
 layout: post
-title: activity consent form
+title: Activity consent form
 date: 2018-05-15
 ---
 
