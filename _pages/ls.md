@@ -15,5 +15,5 @@ layout: post
 {{ site.pages | size }}
 
 {% assign sorted_posts = (site.pages | sort: 'title') %}
-{% for post in sorted_posts %}<a href="{{ page.url }}">{{ page.title }}</a><br/>
+{% for post in sorted_posts %}<a href="{{ post.url }}">{{ post.title }}</a><br/>
 {% endfor %}
