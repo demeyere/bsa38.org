@@ -49,12 +49,12 @@ layout: post
 <h3>August 2018</h3>
 <p><em>No general meetings in August.</em></p>
 <p><em>Renaissance Festival Scout Day, Valleyfair Friends and Family day</em></p>
+<p><strong>2018-08-25</strong> — Valleyfair</p>
 
 <h3>September 2018</h3>
 <p><strong>2018-09-09</strong> — St Paul Bike Classic</p>
 
 <hr>
-<p>If you notice something wrong, or not exactly right, <a href="/contact-the-scoutmaster/">send feedback to the scoutmaster using the contact form</a>. To look back in time to see what we have done, visit <a href="http://bsa38.org/calendar-archive/">http://bsa38.org/calendar-archive/</a></p>
+<p>If you notice something wrong, or not exactly right, provide feedback to the scoutmaster. To look back in time to see what we have done, visit <a href="/calendar-archive">http://bsa38.org/calendar-archive</a></p>
 
 <!-- @StHelena school calendar: http://www.sainthelenaschool.us/calendar-c1by6 -->
-
