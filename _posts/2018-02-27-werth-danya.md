@@ -2,8 +2,6 @@
 title: Manual for BSA38.org
 date: 2018-02-27
 revised: 2018-02-27 15:26 
-permalink: /man
-layout: post
 permission-to-reprint: from Cal <editorial@deruyternelson.com> on 2018-02-22
 url: http://www.longfellownokomismessenger.com/eagle-scout-celebrated-at-holy-trinity-lutheran-church/
 ---
