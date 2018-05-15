@@ -55,6 +55,6 @@ layout: post
 <p><strong>2018-09-09</strong> — St Paul Bike Classic</p>
 
 <hr>
-<p>If you notice something wrong, or not exactly right, provide feedback to the scoutmaster. To look back in time to see what we have done, visit <a href="/calendar-archive">http://bsa38.org/calendar-archive</a></p>
+<p>If you notice something wrong, or not exactly right, provide feedback to the scoutmaster. To look back in time to see what we have done, visit <a href="/calendar-archive">/calendar-archive</a></p>
 
 <!-- @StHelena school calendar: http://www.sainthelenaschool.us/calendar-c1by6 -->
