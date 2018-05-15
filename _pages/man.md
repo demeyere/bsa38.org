@@ -6,7 +6,7 @@ permalink: /man
 layout: post
 ---
 
-Man
+Manual
 =================
 
 This is a manual for `bsa38.org`
@@ -18,4 +18,3 @@ Quote posts
 Posts that are only quotes should have the class quote added by adding the following to the YAML header
 
     class: quote
-
