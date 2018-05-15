@@ -1,9 +1,9 @@
 ---
-title: The Avengers
+title: The Grey Fox
 date: 2018-05-15
 revised: 2018-05-15 12:55 
-permalink: /patrol/avengers
+permalink: /patrol/greyfox
 layout: post
 ---
 
-# Avengers
+# The Grey Fox
