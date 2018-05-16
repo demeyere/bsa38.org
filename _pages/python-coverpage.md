@@ -7,3 +7,7 @@ layout: post
 ---
 
 # Python
+
+## links
+
+<a href="/patrol/python/chuckbox">Chuck box checklist</a>

@@ -1,14 +1,14 @@
 ---
-title: Python Chuckbox
+title: Grey Fox Chuckbox
 date: 2018-05-16
 revised: 2018-05-16 06:38 
-permalink: /patrol/python/chuckbox
+permalink: /patrol/greyfox/chuckbox
 layout: post
-url: http://bsa38.org/patrol/python/chuckbox
+url: http://bsa38.org/patrol/greyfox/chuckbox
 ---
 
 
-# Patrol Box Checklist for Python Patrol
+# Patrol Box Checklist for the Grey Fox Patrol
 
 ## Cookware:
 

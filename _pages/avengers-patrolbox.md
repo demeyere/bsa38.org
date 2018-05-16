@@ -1,14 +1,14 @@
 ---
-title: Python Chuckbox
+title: Avengers Chuckbox
 date: 2018-05-16
 revised: 2018-05-16 06:38 
-permalink: /patrol/python/chuckbox
+permalink: /patrol/avengers/chuckbox
 layout: post
-url: http://bsa38.org/patrol/python/chuckbox
+url: http://bsa38.org/patrol/avengers/chuckbox
 ---
 
 
-# Patrol Box Checklist for Python Patrol
+# Patrol Box Checklist for The Avengers Patrol
 
 ## Cookware:
 

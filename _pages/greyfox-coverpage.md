@@ -7,3 +7,7 @@ layout: post
 ---
 
 # The Grey Fox
+
+## links
+
+<a href="/patrol/greyfox/chuckbox">Chuck box checklist</a>

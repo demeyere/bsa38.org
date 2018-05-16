@@ -7,3 +7,7 @@ layout: post
 ---
 
 # Avengers
+
+## links
+
+<a href="/patrol/avengers/chuckbox">Chuck box checklist</a>
