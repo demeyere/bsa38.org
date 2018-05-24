@@ -10,15 +10,6 @@ layout: post
 
 <p><em>*everything is subject to change...</em></p>
 
-<h3>April 2018</h3>
-<p><em>Zombie campout (emprep or first aid related), Hiking MB, Backpacking MB, SPL Election</em></p>
-<p><strong>2018-04-03 1900</strong> — No Meeting due to Spring Break</p>
-<p><strong>2018-04-10 1900</strong> — General Meeting</p>
-<p><strong>2017-04-13/15</strong> — Camping, backpack in/out</p>
-<p><strong>2018-04-17 1900</strong> — General Meeting</p>
-<p><strong>2018-04-21 1400/</strong> — Religious Emblems Awards Mass</p>
-<p><strong>2018-04-24 1900</strong> — General Meeting</p>
-
 <h3>May 2018</h3>
 <p><em>Hiking MB, Fishing MB, Court-of-Honor</em></p>
 <p><strong>2018-05-01 1815</strong> — Patrol Leaders' Council</p>
@@ -28,7 +19,7 @@ layout: post
 <p><strong>2018-05-14 1900</strong> — Committee Meeting</p>
 <p><strong>2018-05-15 1900</strong> — General Meeting</p>
 <p><strong>2018-05-22 1900</strong> — General Meeting</p>
-<p><strong>2018-05-29 1900</strong> — General Meeting</p>
+<p><strong>2018-05-29 1900</strong> — Court of Honor</p>
 
 <h3>June 2018</h3>
 <p><em>Hiking MB (finals), Canoe FCA, Canoeing MB, pre-camp Swim Test</em></p>
