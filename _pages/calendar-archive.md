@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-05-15
-revised: 2018-05-15 12:55 
+date: 2018-06-11
+revised: 2018-06-11 10:01 
 permalink: /calendar-archive
 layout: post
 ---
@@ -238,3 +238,14 @@ layout: post
 <p><strong>2018-04-17 1900</strong> — General Meeting</p>
 <p><strong>2018-04-21 1400/</strong> — Religious Emblems Awards Mass</p>
 <p><strong>2018-04-24 1900</strong> — General Meeting</p>
+
+<h3>May 2018</h3>
+<p><em>Woodworking MB, Court-of-Honor</em></p>
+<p><strong>2018-05-01 1815</strong> — Patrol Leaders' Council</p>
+<p><strong>2018-05-01 1900</strong> — General Meeting</p>
+<p><strong>2018-05-04/06 </strong> — Spring Camporee</p>
+<p><strong>2018-05-08 1900</strong> — General Meeting</p>
+<p><strong>2018-05-14 1900</strong> — Committee Meeting</p>
+<p><strong>2018-05-15 1900</strong> — General Meeting</p>
+<p><strong>2018-05-22 1900</strong> — General Meeting</p>
+<p><strong>2018-05-29 1900</strong> — Court of Honor</p>

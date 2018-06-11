@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-05-15
-revised: 2018-05-15 12:55 
+date: 2018-06-11
+revised: 2018-06-11 10:01 
 permalink: /calendar
 layout: post
 ---
@@ -10,21 +10,11 @@ layout: post
 
 <p><em>*everything is subject to change...</em></p>
 
-<h3>May 2018</h3>
-<p><em>Hiking MB, Fishing MB, Court-of-Honor</em></p>
-<p><strong>2018-05-01 1815</strong> — Patrol Leaders' Council</p>
-<p><strong>2018-05-01 1900</strong> — General Meeting</p>
-<p><strong>2018-05-04/06 </strong> — Spring Camporee</p>
-<p><strong>2018-05-08 1900</strong> — General Meeting</p>
-<p><strong>2018-05-14 1900</strong> — Committee Meeting</p>
-<p><strong>2018-05-15 1900</strong> — General Meeting</p>
-<p><strong>2018-05-22 1900</strong> — General Meeting</p>
-<p><strong>2018-05-29 1900</strong> — Court of Honor</p>
-
 <h3>June 2018</h3>
-<p><em>Hiking MB (finals), Canoe FCA, Canoeing MB, pre-camp Swim Test</em></p>
+<p><em>Woodworking MB, Hiking MB, Fishing MB, pre-camp Swim Test</em></p>
 <p><strong>2018-06-05 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-06-05 1900</strong> — General Meeting</p>
+<p><strong>2018-06-10 1400</strong> — Zachary's Eagle Court of Honor</p>
 <p><strong>2018-06-12 1900</strong> — General Meeting</p>
 <p><strong>2018-06-19 1900</strong> — General Meeting</p>
 <p><strong>2018-06-26 1900</strong> — General Meeting</p>
