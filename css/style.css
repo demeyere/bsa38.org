@@ -372,21 +372,21 @@ a:hover.social-font {
 /* buttonry colours ========================================================= */
 
 .btn-bsa38 {
-  background-color: #006da6;
-  border-color: #006da6;
+  background-color: #204582;
+  border-color: #204582;
   color: #ffffff;
   }
 
-/* override pagination colors with mellanblå ============================ */
+/* override pagination colors with scout blue ============================ */
 .pagination > li > a,
 .pagination > li > span {
-  color: #006da6;
+  color: #204582;
 }
 .pagination > li > a:hover,
 .pagination > li > span:hover,
 .pagination > li > a:focus,
 .pagination > li > span:focus {
-  color: #006da6;
+  color: #204582;
 }
 .pagination > .active > a,
 .pagination > .active > span,
@@ -395,6 +395,6 @@ a:hover.social-font {
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
   color: #ffffff;
-  background-color: #006da6;
-  border-color: #006da6;
+  background-color: #204582;
+  border-color: #204582;
 }
