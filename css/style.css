@@ -4,7 +4,7 @@ Theme URI: http://bsa38.org/
 Description: BSA 38
 Author: Ross DeMeyere
 Author URI: http://demeyere.com/
-Version: 2018-05-15 11:35 
+Version: 2018-06-25 12:43 
 */
 
 
@@ -25,9 +25,10 @@ Version: 2018-05-15 11:35
 .highlighter { background-color:#ffffaa; }
 
 .black-bg,
-.guldgul-bg,
-.mellanblaa-bg
+.guldgul-bg
   { color:#ffffff; }
+
+.scoutblue { color:#204582;}
 
 /* general style */
 
@@ -49,7 +50,7 @@ html {
 /* header section ========================================================== */
 
 header.demeyere {
-  background-color:#006da6;
+  background-color:#204582;
   }
 header.demeyere div.container {
   padding-top: 13px;
@@ -157,7 +158,7 @@ h1 {
   font-family: RBNo21a-Bold;
   font-weight: normal;
 /*  font-size:36px; line-height:36px; */
-  color:#006da6;
+  color:#204582;
   margin-top:0px;
   margin-bottom:18px;
   }
@@ -205,8 +206,8 @@ p.byline {
   }
 
 p.byline .btn-primary {
-    background-color: #006da6;
-    border-color: #006da6;
+    background-color: #204582;
+    border-color: #204582;
     color: #ffffff;
 }
 span.category .btn-primary {
