@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-06-11
-revised: 2018-06-20 23:27 
+date: 2018-07-02
+revised: 2018-07-02 15:46 
 permalink: /calendar
 layout: post
 ---
@@ -33,6 +33,7 @@ layout: post
 <p><em>No general meetings in August.</em></p>
 <p><em>Renaissance Festival Scout Day, Valleyfair Friends and Family day</em></p>
 <p><strong>2018-08-25</strong> — Valleyfair</p>
+<p><strong>2018-08-26</strong> — Renaissance Festival</p>
 
 <h3>September 2018</h3>
 <p><strong>2018-09-09</strong> — St Paul Bike Classic</p>
