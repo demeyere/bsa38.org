@@ -1,7 +1,7 @@
 ---
 title: Troop 38 Eagles
-date: 2018-05-15
-revised: 2018-05-15 12:55 
+date: 2018-07-04
+revised: 2018-07-04 10:38
 permalink: /eagles
 layout: post
 ---
@@ -47,3 +47,4 @@ A list of our Eagle Scouts
 2017-08-14  Zachary DeMeyere  
 2018-04-12  Anton W.  
 2018-04-12  Ethan P.  
+2018-06-26  Ethan Cherne

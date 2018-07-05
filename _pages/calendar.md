@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-07-02
-revised: 2018-07-02 15:46 
+date: 2018-07-05
+revised: 2018-07-05 17:44 
 permalink: /calendar
 layout: post
 ---
@@ -37,6 +37,7 @@ layout: post
 
 <h3>September 2018</h3>
 <p><strong>2018-09-09</strong> — St Paul Bike Classic</p>
+<p><strong>2018-09-15</strong> — Autumn Daze Parade</p><!-- http://twitter.com/AutumnDazeFest -->
 
 <hr>
 <p>If you notice something wrong, or not exactly right, provide feedback to the scoutmaster. To look back in time to see what we have done, visit <a href="/calendar-archive">/calendar-archive</a></p>
