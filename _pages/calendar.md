@@ -10,17 +10,8 @@ layout: post
 
 <p><em>*everything is subject to change...</em></p>
 
-<h3>June 2018</h3>
-<p><em>Woodworking MB</em></p>
-<p><strong>2018-06-05 1815</strong> — Patrol Leaders' Council</p>
-<p><strong>2018-06-05 1900</strong> — General Meeting</p>
-<p><strong>2018-06-10 1400</strong> — Zachary's Eagle Court of Honor</p>
-<p><strong>2018-06-12 1900</strong> — General Meeting</p>
-<p><strong>2018-06-19 1900</strong> — General Meeting</p>
-<p><strong>2018-06-26 1900</strong> — General Meeting</p>
-
 <h3>July 2018</h3>
-<p><em>pre-camp Swim Test</em></p>
+<p><em>pre-camp Swim Test, Many Point</em></p>
 <p><strong>2018-07-03 1900</strong> — Happy Fourth of July! No General Meeting</p>
 <p><strong>2018-07-10 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-07-10 1900</strong> — General Meeting</p>

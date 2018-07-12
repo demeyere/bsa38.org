@@ -249,3 +249,13 @@ layout: post
 <p><strong>2018-05-15 1900</strong> — General Meeting</p>
 <p><strong>2018-05-22 1900</strong> — General Meeting</p>
 <p><strong>2018-05-29 1900</strong> — Court of Honor</p>
+
+<h3>June 2018</h3>
+<p><em>Woodworking MB</em></p>
+<p><strong>2018-06-05 1815</strong> — Patrol Leaders' Council</p>
+<p><strong>2018-06-05 1900</strong> — General Meeting</p>
+<p><strong>2018-06-10 1400</strong> — Zachary's Eagle Court of Honor</p>
+<p><strong>2018-06-12 1900</strong> — General Meeting</p>
+<p><strong>2018-06-19 1900</strong> — General Meeting</p>
+<p><strong>2018-06-26 1900</strong> — General Meeting</p>
+
