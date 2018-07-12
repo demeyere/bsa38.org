@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-07-05
-revised: 2018-07-05 17:44 
+date: 2018-07-12
+revised: 2018-07-12 12:02
 permalink: /calendar
 layout: post
 ---
@@ -32,6 +32,8 @@ layout: post
 <h3>August 2018</h3>
 <p><em>No general meetings in August.</em></p>
 <p><em>Renaissance Festival Scout Day, Valleyfair Friends and Family day</em></p>
+<p><strong>2018-08-12 ??:??</strong> — Anton Eagle Court of Honor</p>
+<p><strong>2018-08-17,18,19</strong> — ??? early tentative Erik Eagle Project dates</p>
 <p><strong>2018-08-25</strong> — Valleyfair</p>
 <p><strong>2018-08-26</strong> — Renaissance Festival</p>
 
