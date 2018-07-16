@@ -18,7 +18,7 @@ layout: post
 <p><strong>2018-07-16 1900</strong> — Committee Meeting</p>
 <p><strong>2018-07-17 1900</strong> — General Meeting</p>
 <p><strong>2018-07-19 1945</strong> — Swim test</p>
-<p><strong>2018-07-22/28</strong> — Many Point Scout Camp</p>
+<p><strong>2018-07-22 0630/ 07-28 PM</strong> — Many Point Scout Camp</p>
 
 <h3>August 2018</h3>
 <p><em>No general meetings in August.</em></p>
