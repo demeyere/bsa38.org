@@ -19,6 +19,7 @@ layout: post
 <p><strong>2018-07-17 1900</strong> — General Meeting</p>
 <p><strong>2018-07-19 1945</strong> — Swim test</p>
 <p><strong>2018-07-22 0630/ 07-28 PM</strong> — Many Point Scout Camp</p>
+<p><strong>2018-07-31 1900</strong> — NO MEETING -- General Meetings start up again in September</p>
 
 <h3>August 2018</h3>
 <p><em>No general meetings in August.</em></p>
