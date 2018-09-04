@@ -1,7 +1,7 @@
 ---
 title: Troop 38 Eagles
 date: 2018-07-04
-revised: 2018-07-04 10:38
+revised: 2018-08-23 07:13 
 permalink: /eagles
 layout: post
 ---
@@ -45,6 +45,6 @@ A list of our Eagle Scouts
 2016-11-21  Henry Warwick  
 2017-02-20  Danya Werth  
 2017-08-14  Zachary DeMeyere  
-2018-04-12  Anton W.  
+2018-04-12  Anton Werth  
 2018-04-12  Ethan P.  
 2018-06-26  Ethan Cherne
