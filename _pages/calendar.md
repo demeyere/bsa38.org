@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-09-04
-revised: 2018-09-04 14:10
+date: 2018-09-11
+revised: 2018-09-11 10:30
 permalink: /calendar
 layout: post
 ---
@@ -18,7 +18,7 @@ layout: post
 <p><strong>2018-09-15</strong> — Autumn Daze Parade</p><!-- http://twitter.com/AutumnDazeFest -->
 <p><strong>2018-09-18 1900</strong> — General Meeting</p>
 <p><strong>2018-09-25 1900</strong> — General Meeting</p>
-<p><strong>2018-09-28/30</strong> — Camping Weekend</p>
+<p><strong>2018-09-28/30</strong> — Camping Weekend // Grazing (Cooking MB)</p>
 
 
 <h3>October 2018</h3>
@@ -26,11 +26,13 @@ layout: post
 <p><strong>2018-10-02 1900</strong> — General Meeting</p>
 <p><strong>2018-10-08 1900</strong> — Troop Committee Meeting</p>
 <p><strong>2018-10-09 1900</strong> — General Meeting</p>
+<p><strong>2018-10-12/14</strong>   — Fall Camporee</p>
 <p><strong>2018-10-16 1900</strong> — General Meeting</p>
-<p><strong>2018-10-23 1900</strong> — General Meeting</p>
+<p><strong>2018-10-23 1900</strong> — Friendship Fire</p>
 <p><strong>2018-10-30 1900</strong> — General Meeting</p>
 
 <h3>November 2018</h3>
+<p><strong>2018-11-02/04</strong>   — Camping Weekend</p>
 <p><strong>2018-11-06 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-11-06 1900</strong> — General Meeting</p>
 <p><strong>2018-11-13 1900</strong> — General Meeting</p>
