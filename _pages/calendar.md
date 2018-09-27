@@ -23,7 +23,7 @@ layout: post
 
 
 <h3>October 2018</h3>
-<p><em>Popcorn fundraiser, Wreath fundraiser, Webelos Friendship Fire</em></p>
+<p><em>Popcorn fundraiser, Wreath fundraiser, Webelos Friendship Fire, Cooking MB</em></p>
 <p><strong>2018-10-02 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-10-02 1900</strong> — General Meeting</p>
 <p><strong>2018-10-08 1900</strong> — Troop Committee Meeting</p>
