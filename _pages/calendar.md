@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-09-11
-revised: 2018-09-11 10:30
+date: 2018-10-04
+revised: 2018-10-04 11:32
 permalink: /calendar
 layout: post
 ---
@@ -11,7 +11,7 @@ layout: post
 <p><em>*everything is subject to change...</em></p>
 
 <h3>September 2018</h3>
-<p><em>Popcorn fundraiser, Wreath fundraiser, Parade, Photography MB, Cooking MB</em></p>
+<p><em>Patrol Leader elections, St Paul Bike Classic, Popcorn fundraiser, Wreath fundraiser, Autumn Daze Parade, Photography MB, Cooking MB, Campout</em></p>
 <p><strong>2018-09-04 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-09-04 1900</strong> — General Meeting</p>
 <p><strong>2018-09-09</strong> — St Paul Bike Classic</p>
@@ -23,7 +23,7 @@ layout: post
 
 
 <h3>October 2018</h3>
-<p><em>Popcorn fundraiser, Wreath fundraiser, Webelos Friendship Fire, Cooking MB</em></p>
+<p><em>Popcorn fundraiser, Wreath fundraiser, Webelos Friendship Fire, Cooking MB, Coin Collecting MB, Hiking MB, Court of Honor, St Helena leaf raking service project, Fall Camporee, Halloween party</em></p>
 <p><strong>2018-10-02 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-10-02 1900</strong> — General Meeting</p>
 <p><strong>2018-10-08 1900</strong> — Troop Committee Meeting</p>
@@ -34,7 +34,7 @@ layout: post
 <p><strong>2018-10-30 1900</strong> — General Meeting</p>
 
 <h3>November 2018</h3>
-<p><em>Fishing MB, PLC training event, recharter</em></p>
+<p><em>Fishing MB, PLC training event, recharter, skills campout, Hiking MB, Woodworking MB</em></p>
 <p><strong>2018-11-02/04</strong>   — Camping Weekend</p>
 <p><strong>2018-11-06 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-11-06 1900</strong> — General Meeting</p>
@@ -43,7 +43,7 @@ layout: post
 <p><strong>2018-11-27 1900</strong> — General Meeting</p>
 
 <h3>December 2018</h3>
-<p><em>Webelos Crossover Ceremony, Sledding/Skiing over Christmas Break, Wreaths across America</em></p>
+<p><em>Webelos Crossover Ceremony, Sledding/Skiing over Christmas Break, Wreaths across America, recharter, swimming for fun</em></p>
 <p><strong>2018-12-04 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-12-04 1900</strong> — General Meeting</p>
 <p><strong>2018-12-11 1900</strong> — General Meeting</p>
@@ -51,6 +51,7 @@ layout: post
 <p><strong>2018-12-25     </strong> — Merry Christmas!</p>
 
 <h3>January 2019</h3>
+<p><em>Snowshoeing, Northwind, Court of Honor</em></p>
 <p><strong>2019-01-01     </strong> — Happy New Year!</p>
 <p><strong>2019-01-08 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-01-08 1900</strong> — General Meeting</p>
@@ -59,6 +60,7 @@ layout: post
 <p><strong>2019-01-29 1900</strong> — General Meeting</p>
 
 <h3>February 2019</h3>
+<p><em>Showshoeing, Klondike derby, FirstAid/CPR campout, Fort Snelling wreath collection, Scout Sunday</em></p>
 <p><strong>2019-02-05 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-02-05 1900</strong> — General Meeting</p>
 <p><strong>2019-02-12 1900</strong> — General Meeting</p>
@@ -66,6 +68,7 @@ layout: post
 <p><strong>2019-02-26 1900</strong> — General Meeting</p>
 
 <h3>March 2019</h3>
+<p><em>Showshoeing, Citizenship in the Community, Coin Collecting MB, OA Elections, Feed My Starving Children, Personal Fitness MB</em></p>
 <p><strong>2019-03-05 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-03-05 1900</strong> — General Meeting</p>
 <p><strong>2019-03-12 1900</strong> — General Meeting</p>
@@ -73,6 +76,7 @@ layout: post
 <p><strong>2019-03-26 1900</strong> — General Meeting</p>
 
 <h3>April 2019</h3>
+<p><em>Personal Fitness MB, SPL Election, Backpacking weekend, Hiking MB, FMSC</em></p>
 <p><strong>2019-04-02 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-04-02 1900</strong> — General Meeting</p>
 <p><strong>2019-04-09 1900</strong> — General Meeting</p>
@@ -81,6 +85,7 @@ layout: post
 <p><strong>2019-04-30 1900</strong> — General Meeting</p>
 
 <h3>May 2019</h3>
+<p><em>Fishing MB, Court of Honor, Camporee, Hiking MB, St Helena Spring Cleanup</em></p>
 <p><strong>2019-05-07 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-05-07 1900</strong> — General Meeting</p>
 <p><strong>2019-05-14 1900</strong> — General Meeting</p>
@@ -88,6 +93,7 @@ layout: post
 <p><strong>2019-05-28 1900</strong> — General Meeting</p>
 
 <h3>June 2019</h3>
+<p><em>FCA Canoe weekend, swimming pre-test, annual planning conference</em></p>
 <p><strong>2019-06-04 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-06-04 1900</strong> — General Meeting</p>
 <p><strong>2019-06-11 1900</strong> — General Meeting</p>
@@ -95,6 +101,7 @@ layout: post
 <p><strong>2019-06-25 1900</strong> — General Meeting</p>
 
 <h3>July 2019</h3>
+<p><em>Many Point</em></p>
 <p><strong>2019-07-02</strong> — Happy Fourth of July week!</p>
 <p><strong>2019-07-09 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-07-09 1900</strong> — General Meeting</p>
@@ -102,6 +109,7 @@ layout: post
 <p><strong>2019-07-23 1900</strong> — General Meeting</p>
 
 <h3>August 2019</h3>
+<p><em>No regular meetings, Valleyfair, RenFest</em></p>
 
 <hr>
 <p>If you notice something wrong, or not exactly right, provide feedback to the scoutmaster. To look back in time to see what we have done, visit <a href="/calendar-archive">/calendar-archive</a></p>
