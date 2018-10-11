@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-10-04
-revised: 2018-10-04 11:32
+date: 2018-10-11
+revised: 2018-10-11 10:15
 permalink: /calendar
 layout: post
 ---
@@ -30,8 +30,8 @@ layout: post
 <p><strong>2018-10-09 1900</strong> — Court of Honor</p>
 <p><strong>2018-10-12/14</strong>   — Fall Camporee</p>
 <p><strong>2018-10-16 1900</strong> — General Meeting</p>
-<p><strong>2018-10-23 1900</strong> — Friendship Fire</p>
-<p><strong>2018-10-30 1900</strong> — General Meeting</p>
+<p><strong>2018-10-23 1900</strong> — Friendship Fire, turn in wreath sales</p>
+<p><strong>2018-10-30 1900</strong> — General Meeting (Halloween party)</p>
 
 <h3>November 2018</h3>
 <p><em>Fishing MB, PLC training event, recharter, skills campout, Hiking MB, Woodworking MB</em></p>
@@ -39,6 +39,7 @@ layout: post
 <p><strong>2018-11-06 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-11-06 1900</strong> — General Meeting</p>
 <p><strong>2018-11-13 1900</strong> — General Meeting</p>
+<p><strong>2018-11-18 0800/1200</strong> — Pick up wreaths</p>
 <p><strong>2018-11-20 1900</strong> — General Meeting</p>
 <p><strong>2018-11-27 1900</strong> — General Meeting</p>
 
@@ -46,6 +47,7 @@ layout: post
 <p><em>Webelos Crossover Ceremony, Sledding/Skiing over Christmas Break, Wreaths across America, recharter, swimming for fun</em></p>
 <p><strong>2018-12-04 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-12-04 1900</strong> — General Meeting</p>
+<p><strong>2018-12-10 1900</strong> — Troop Committee Meeting</p>
 <p><strong>2018-12-11 1900</strong> — General Meeting</p>
 <p><strong>2018-12-18 1900</strong> — General Meeting</p>
 <p><strong>2018-12-25     </strong> — Merry Christmas!</p>
