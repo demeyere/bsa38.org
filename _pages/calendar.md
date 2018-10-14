@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-10-11
-revised: 2018-10-11 10:15
+date: 2018-10-14
+revised: 2018-10-14 12:48
 permalink: /calendar
 layout: post
 ---
@@ -9,18 +9,6 @@ layout: post
 # Troop 38 Calendar
 
 <p><em>*everything is subject to change...</em></p>
-
-<h3>September 2018</h3>
-<p><em>Patrol Leader elections, St Paul Bike Classic, Popcorn fundraiser, Wreath fundraiser, Autumn Daze Parade, Photography MB, Cooking MB, Campout</em></p>
-<p><strong>2018-09-04 1815</strong> — Patrol Leaders' Council</p>
-<p><strong>2018-09-04 1900</strong> — General Meeting</p>
-<p><strong>2018-09-09</strong> — St Paul Bike Classic</p>
-<p><strong>2018-09-11 1900</strong> — General Meeting</p>
-<p><strong>2018-09-15</strong> — Autumn Daze Parade</p><!-- http://twitter.com/AutumnDazeFest -->
-<p><strong>2018-09-18 1900</strong> — General Meeting</p>
-<p><strong>2018-09-25 1900</strong> — General Meeting</p>
-<p><strong>2018-09-28 17:00 / 09-30</strong> — Camping Weekend // Grazing (Cooking MB)</p>
-
 
 <h3>October 2018</h3>
 <p><em>Popcorn fundraiser, Wreath fundraiser, Webelos Friendship Fire, Cooking MB, Coin Collecting MB, Hiking MB, Court of Honor, St Helena leaf raking service project, Fall Camporee, Halloween party</em></p>
@@ -36,8 +24,8 @@ layout: post
 <h3>November 2018</h3>
 <p><em>Fishing MB, PLC training event, recharter, skills campout, Hiking MB, Woodworking MB</em></p>
 <p><strong>2018-11-02/04</strong>   — Camping Weekend</p>
-<p><strong>2018-11-06 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-11-06 1900</strong> — General Meeting</p>
+<p><strong>2018-11-13 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-11-13 1900</strong> — General Meeting</p>
 <p><strong>2018-11-18 0800/1200</strong> — Pick up wreaths</p>
 <p><strong>2018-11-20 1900</strong> — General Meeting</p>

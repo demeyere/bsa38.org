@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-06-11
-revised: 2018-06-11 10:01 
+date: 2018-10-14
+revised: 2018-10-14 12:48 
 permalink: /calendar-archive
 layout: post
 ---
@@ -277,4 +277,15 @@ layout: post
 <p><strong>2018-08-18,19</strong> — Erik Eagle Project dates</p>
 <p><strong>2018-08-25</strong> — Valleyfair</p>
 <p><strong>2018-08-26</strong> — Renaissance Festival</p>
+
+<h3>September 2018</h3>
+<p><em>Patrol Leader elections, St Paul Bike Classic, Popcorn fundraiser, Wreath fundraiser, Autumn Daze Parade, Photography MB, Cooking MB, Campout</em></p>
+<p><strong>2018-09-04 1815</strong> — Patrol Leaders' Council</p>
+<p><strong>2018-09-04 1900</strong> — General Meeting</p>
+<p><strong>2018-09-09</strong> — St Paul Bike Classic</p>
+<p><strong>2018-09-11 1900</strong> — General Meeting</p>
+<p><strong>2018-09-15</strong> — Autumn Daze Parade</p><!-- http://twitter.com/AutumnDazeFest -->
+<p><strong>2018-09-18 1900</strong> — General Meeting</p>
+<p><strong>2018-09-25 1900</strong> — General Meeting</p>
+<p><strong>2018-09-28 17:00 / 09-30</strong> — Camping Weekend // Grazing (Cooking MB)</p>
 
