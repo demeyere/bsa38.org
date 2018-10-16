@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-10-14
-revised: 2018-10-14 12:48
+date: 2018-10-16
+revised: 2018-10-16 15:11 
 permalink: /calendar
 layout: post
 ---
@@ -11,7 +11,7 @@ layout: post
 <p><em>*everything is subject to change...</em></p>
 
 <h3>October 2018</h3>
-<p><em>Popcorn fundraiser, Wreath fundraiser, Webelos Friendship Fire, Cooking MB, Coin Collecting MB, Hiking MB, Court of Honor, St Helena leaf raking service project, Fall Camporee, Halloween party</em></p>
+<p><em>Popcorn fundraiser, Wreath fundraiser, Webelos Friendship Fire, Cooking MB, Coin Collecting MB, Hiking MB, Court of Honor, Fall Camporee, Halloween party</em></p>
 <p><strong>2018-10-02 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-10-02 1900</strong> — General Meeting</p>
 <p><strong>2018-10-08 1900</strong> — Troop Committee Meeting</p>
@@ -22,7 +22,7 @@ layout: post
 <p><strong>2018-10-30 1900</strong> — General Meeting (Halloween party)</p>
 
 <h3>November 2018</h3>
-<p><em>Fishing MB, PLC training event, recharter, skills campout, Hiking MB, Woodworking MB</em></p>
+<p><em>St Helena leaf raking service project, Fishing MB, PLC training event, recharter, skills campout, Hiking MB, Woodworking MB</em></p>
 <p><strong>2018-11-02/04</strong>   — Camping Weekend</p>
 <p><strong>2018-11-06 1900</strong> — General Meeting</p>
 <p><strong>2018-11-13 1815</strong> — Patrol Leaders' Council</p>
