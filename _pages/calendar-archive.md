@@ -289,3 +289,13 @@ layout: post
 <p><strong>2018-09-25 1900</strong> — General Meeting</p>
 <p><strong>2018-09-28 17:00 / 09-30</strong> — Camping Weekend // Grazing (Cooking MB)</p>
 
+<h3>October 2018</h3>
+<p><em>Popcorn fundraiser, Wreath fundraiser, Webelos Friendship Fire, Cooking MB, Coin Collecting MB, Hiking MB, Court of Honor, Fall Camporee, Halloween party</em></p>
+<p><strong>2018-10-02 1815</strong> — Patrol Leaders' Council</p>
+<p><strong>2018-10-02 1900</strong> — General Meeting</p>
+<p><strong>2018-10-08 1900</strong> — Troop Committee Meeting</p>
+<p><strong>2018-10-09 1900</strong> — Court of Honor</p>
+<p><strong>2018-10-12/14</strong>   — Fall Camporee</p>
+<p><strong>2018-10-16 1900</strong> — General Meeting</p>
+<p><strong>2018-10-23 1900</strong> — Friendship Fire, turn in wreath sales</p>
+<p><strong>2018-10-30 1900</strong> — General Meeting (Halloween party)</p>

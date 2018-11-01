@@ -10,24 +10,13 @@ layout: post
 
 <p><em>*everything is subject to change...</em></p>
 
-<h3>October 2018</h3>
-<p><em>Popcorn fundraiser, Wreath fundraiser, Webelos Friendship Fire, Cooking MB, Coin Collecting MB, Hiking MB, Court of Honor, Fall Camporee, Halloween party</em></p>
-<p><strong>2018-10-02 1815</strong> — Patrol Leaders' Council</p>
-<p><strong>2018-10-02 1900</strong> — General Meeting</p>
-<p><strong>2018-10-08 1900</strong> — Troop Committee Meeting</p>
-<p><strong>2018-10-09 1900</strong> — Court of Honor</p>
-<p><strong>2018-10-12/14</strong>   — Fall Camporee</p>
-<p><strong>2018-10-16 1900</strong> — General Meeting</p>
-<p><strong>2018-10-23 1900</strong> — Friendship Fire, turn in wreath sales</p>
-<p><strong>2018-10-30 1900</strong> — General Meeting (Halloween party)</p>
-
 <h3>November 2018</h3>
 <p><em>St Helena leaf raking service project, Fishing MB, PLC training event, recharter, skills campout, Hiking MB, Woodworking MB</em></p>
 <p><strong>2018-11-02/04</strong>   — Camping Weekend</p>
-<p><strong>2018-11-06 1900</strong> — General Meeting</p>
+<p><strong>2018-11-06 1900</strong> — St Helena Leaf Raking; 5:00 or earlier to late; Come when you can.</p>
 <p><strong>2018-11-13 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2018-11-13 1900</strong> — General Meeting</p>
-<p><strong>2018-11-18 0800/1200</strong> — Pick up wreaths</p>
+<p><strong>2018-11-17 0800/1200</strong> — Pick up wreaths</p>
 <p><strong>2018-11-20 1900</strong> — General Meeting</p>
 <p><strong>2018-11-27 1900</strong> — General Meeting</p>
 
@@ -37,6 +26,7 @@ layout: post
 <p><strong>2018-12-04 1900</strong> — General Meeting</p>
 <p><strong>2018-12-10 1900</strong> — Troop Committee Meeting</p>
 <p><strong>2018-12-11 1900</strong> — General Meeting</p>
+<p><strong>2018-12-15     </strong> — Wreaths across America, service project</p>
 <p><strong>2018-12-18 1900</strong> — General Meeting</p>
 <p><strong>2018-12-25     </strong> — Merry Christmas!</p>
 
