@@ -1,5 +1,5 @@
 ---
-title: Manual for BSA38.org
+title: Eagle Scout project
 date: 2018-02-27
 revised: 2018-02-27 15:26 
 permission-to-reprint: from Cal <editorial@deruyternelson.com> on 2018-02-22
