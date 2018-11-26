@@ -26,17 +26,18 @@ layout: post
 <p><strong>2018-12-04 1900</strong> — General Meeting</p>
 <p><strong>2018-12-10 1900</strong> — Troop Committee Meeting</p>
 <p><strong>2018-12-11 1900</strong> — General Meeting</p>
-<p><strong>2018-12-15     </strong> — Wreaths across America, service project</p>
+<p><strong>2018-12-15 1100/</strong> — Wreaths across America, service project</p>
 <p><strong>2018-12-18 1900</strong> — General Meeting</p>
 <p><strong>2018-12-25     </strong> — Merry Christmas!</p>
+<p><strong>2018-12-28     </strong> — Sledding and Movie night</p>
 
 <h3>January 2019</h3>
 <p><em>Snowshoeing, Northwind, Court of Honor</em></p>
 <p><strong>2019-01-01     </strong> — Happy New Year!</p>
 <p><strong>2019-01-08 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-01-08 1900</strong> — General Meeting</p>
-<p><strong>2019-01-15 1900</strong> — General Meeting</p>
-<p><strong>2019-01-22 1900</strong> — General Meeting</p>
+<p><strong>2019-01-15 1900</strong> — General Meeting // Photography show and Collections exhibit</p>
+<p><strong>2019-01-22 1900</strong> — Court of Honor</p>
 <p><strong>2019-01-29 1900</strong> — General Meeting</p>
 
 <h3>February 2019</h3>
@@ -69,6 +70,7 @@ layout: post
 <p><strong>2019-05-07 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-05-07 1900</strong> — General Meeting</p>
 <p><strong>2019-05-14 1900</strong> — General Meeting</p>
+<p><strong>2019-05-17/19</strong>   — Ripley Rendezvous</p>
 <p><strong>2019-05-21 1900</strong> — General Meeting</p>
 <p><strong>2019-05-28 1900</strong> — General Meeting</p>
 
