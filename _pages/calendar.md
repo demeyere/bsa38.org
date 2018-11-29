@@ -10,16 +10,6 @@ layout: post
 
 <p><em>*everything is subject to change...</em></p>
 
-<h3>November 2018</h3>
-<p><em>St Helena leaf raking service project, Fishing MB, PLC training event, recharter, skills campout, Hiking MB, Woodworking MB</em></p>
-<p><strong>2018-11-02/04</strong>   — Camping Weekend</p>
-<p><strong>2018-11-06 1900</strong> — St Helena Leaf Raking; 5:00 or earlier to late; Come when you can.</p>
-<p><strong>2018-11-13 1815</strong> — Patrol Leaders' Council</p>
-<p><strong>2018-11-13 1900</strong> — General Meeting</p>
-<p><strong>2018-11-17 0800/1200</strong> — Pick up wreaths</p>
-<p><strong>2018-11-20 1900</strong> — General Meeting</p>
-<p><strong>2018-11-27 1900</strong> — General Meeting</p>
-
 <h3>December 2018</h3>
 <p><em>Webelos Crossover Ceremony, Sledding/Skiing over Christmas Break, Wreaths across America, recharter, swimming for fun</em></p>
 <p><strong>2018-12-04 1815</strong> — Patrol Leaders' Council</p>
@@ -45,6 +35,7 @@ layout: post
 <p><strong>2019-02-05 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-02-05 1900</strong> — General Meeting</p>
 <p><strong>2019-02-12 1900</strong> — General Meeting</p>
+<p><strong>2019-02-15/17</strong>   — Camping weekend</p>
 <p><strong>2019-02-19 1900</strong> — General Meeting</p>
 <p><strong>2019-02-26 1900</strong> — General Meeting</p>
 
