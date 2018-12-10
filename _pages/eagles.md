@@ -1,7 +1,7 @@
 ---
 title: Troop 38 Eagles
-date: 2018-07-04
-revised: 2018-08-23 07:13 
+date: 2018-12-10
+revised: 2018-12-10 13:52 
 permalink: /eagles
 layout: post
 ---
@@ -48,3 +48,4 @@ A list of our Eagle Scouts
 2018-04-12  Anton Werth  
 2018-04-12  Ethan P.  
 2018-06-26  Ethan Cherne
+2018-10-16  Erik D.
