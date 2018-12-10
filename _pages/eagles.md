@@ -47,5 +47,5 @@ A list of our Eagle Scouts
 2017-08-14  Zachary DeMeyere  
 2018-04-12  Anton Werth  
 2018-04-12  Ethan P.  
-2018-06-26  Ethan Cherne
-2018-10-16  Erik D.
+2018-06-26  Ethan Cherne  
+2018-10-16  Erik D.  
