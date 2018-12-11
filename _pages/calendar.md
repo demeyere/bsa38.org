@@ -16,6 +16,7 @@ layout: post
 <p><strong>2018-12-04 1900</strong> — General Meeting</p>
 <p><strong>2018-12-10 1900</strong> — Troop Committee Meeting</p>
 <p><strong>2018-12-11 1900</strong> — General Meeting</p>
+<p><strong>2018-12-13 1800</strong> — Pack 38 Blue and Gold</p>
 <p><strong>2018-12-15 1100/</strong> — Wreaths across America, service project</p>
 <p><strong>2018-12-18 1900</strong> — General Meeting</p>
 <p><strong>2018-12-25     </strong> — Merry Christmas!</p>
