@@ -22,6 +22,7 @@ layout: post
 <p><strong>2018-12-25     </strong> — Merry Christmas!</p>
 <p><strong>2018-12-28     </strong> — Sledding and Movie night</p>
 
+<!-- 
 <h3>January 2019</h3>
 <p><em>Snowshoeing, Northwind, Court of Honor</em></p>
 <p><strong>2019-01-01     </strong> — Happy New Year!</p>
@@ -85,6 +86,7 @@ layout: post
 <h3>August 2019</h3>
 <p><em>No regular meetings, Valleyfair, RenFest</em></p>
 
+ -->
 <hr>
 <p>If you notice something wrong, or not exactly right, provide feedback to the scoutmaster. To look back in time to see what we have done, visit <a href="/calendar-archive">/calendar-archive</a></p>
 
