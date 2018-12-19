@@ -59,7 +59,7 @@ layout: post
 <p><strong>2019-04-30 1900</strong> — General Meeting</p>
 
 <h3>May 2019</h3>
-<p><em>Fishing MB, Court of Honor, Camporee, Hiking MB, St Helena Spring Cleanup</em></p>
+<p><em>Fishing MB, Court of Honor, Camporee, Hiking MB</em></p>
 <p><strong>2019-05-07 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-05-07 1900</strong> — General Meeting</p>
 <p><strong>2019-05-14 1900</strong> — General Meeting</p>
@@ -90,4 +90,3 @@ layout: post
 <hr>
 <p>If you notice something wrong, or not exactly right, provide feedback to the scoutmaster. To look back in time to see what we have done, visit <a href="/calendar-archive">/calendar-archive</a></p>
 
-<!-- @StHelena school calendar: http://www.sainthelenaschool.us/calendar-c1by6 -->
