@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-10-16
-revised: 2018-10-16 15:11 
+date: 2018-12-28
+revised: 2018-12-28 10:26 
 permalink: /calendar
 layout: post
 ---
@@ -20,7 +20,7 @@ layout: post
 <p><strong>2018-12-15 1100/</strong> — Wreaths across America, service project</p>
 <p><strong>2018-12-18 1900</strong> — General Meeting</p>
 <p><strong>2018-12-25     </strong> — Merry Christmas!</p>
-<p><strong>2018-12-28     </strong> — Sledding and Movie night</p>
+<p><strong>2018-12-28 1900/</strong> — Movie night // no snow = no sledding :( </p>
 
 <!-- 
 <h3>January 2019</h3>
