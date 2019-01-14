@@ -310,3 +310,15 @@ layout: post
 <p><strong>2018-11-20 1900</strong> — General Meeting</p>
 <p><strong>2018-11-27 1900</strong> — General Meeting</p>
 
+<h3>December 2018</h3>
+<p><em>Webelos Crossover Ceremony, Sledding/Skiing over Christmas Break, Wreaths across America, recharter, swimming for fun</em></p>
+<p><strong>2018-12-04 1815</strong> — Patrol Leaders' Council</p>
+<p><strong>2018-12-04 1900</strong> — General Meeting</p>
+<p><strong>2018-12-10 1900</strong> — Troop Committee Meeting</p>
+<p><strong>2018-12-11 1900</strong> — General Meeting</p>
+<p><strong>2018-12-13 1800</strong> — Pack 38 Blue and Gold</p>
+<p><strong>2018-12-15 1100/</strong> — Wreaths across America, service project</p>
+<p><strong>2018-12-18 1900</strong> — General Meeting</p>
+<p><strong>2018-12-25     </strong> — Merry Christmas!</p>
+<p><strong>2018-12-28 1900/</strong> — Movie night // no snow = no sledding :( </p>
+
