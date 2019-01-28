@@ -12,12 +12,12 @@ layout: post
 
 
 <h3>January 2019</h3>
-<p><em>Snowshoeing, Northwind, Court of Honor</em></p>
+<p><em>Court of Honor</em></p>
 <p><strong>2019-01-01     </strong> — Happy New Year!</p>
 <p><strong>2019-01-08 1900</strong> — Patrol Leaders' Council // off-site</p>
 <p><strong>2019-01-15 1900</strong> — General Meeting // First meeting in our new location</p>
 <p><strong>2019-01-22 1900</strong> — Court of Honor</p>
-<p><strong>2019-01-29 1900</strong> — General Meeting</p>
+<p><strong>2019-01-29 1900</strong> — General Meeting <strong class="red">CANCELLED DUE TO WEATHER</strong></p>
 
 <h3>February 2019</h3>
 <p><em>Showshoeing, Klondike derby, FirstAid/CPR campout, Fort Snelling wreath collection, Scout Sunday</em></p>
@@ -26,6 +26,7 @@ layout: post
 <p><strong>2019-02-12 1900</strong> — General Meeting</p>
 <p><strong>2019-02-15/17</strong>   — Camping weekend</p>
 <p><strong>2019-02-19 1900</strong> — General Meeting</p>
+<p><strong>2019-02-23 </strong> — Klondike Derby</p>
 <p><strong>2019-02-26 1900</strong> — General Meeting</p>
 
 <h3>March 2019</h3>
