@@ -74,6 +74,5 @@ layout: post
 <h3>August 2019</h3>
 <p><em>No regular meetings, Valleyfair, RenFest</em></p>
 
- -->
 <hr>
 <p>If you notice something wrong, or not exactly right, provide feedback to the scoutmaster. To look back in time to see what we have done, visit <a href="/calendar-archive">/calendar-archive</a></p>
