@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
 date: 2019-01-14
-revised: 2019-01-14 14:46 
+revised: 2019-02-04 17:13 
 permalink: /calendar
 layout: post
 ---
@@ -10,19 +10,10 @@ layout: post
 
 <p><em>*everything is subject to change...</em></p>
 
-
-<h3>January 2019</h3>
-<p><em>Court of Honor</em></p>
-<p><strong>2019-01-01     </strong> — Happy New Year!</p>
-<p><strong>2019-01-08 1900</strong> — Patrol Leaders' Council // off-site</p>
-<p><strong>2019-01-15 1900</strong> — General Meeting // First meeting in our new location</p>
-<p><strong>2019-01-22 1900</strong> — Court of Honor</p>
-<p><strong>2019-01-29 1900</strong> — General Meeting <strong class="red">CANCELLED DUE TO WEATHER</strong></p>
-
 <h3>February 2019</h3>
 <p><em>Showshoeing, Klondike derby, FirstAid/CPR campout, Fort Snelling wreath collection, Scout Sunday</em></p>
-<p><strong>2019-02-05 1830</strong> — Patrol Leaders' Council</p>
-<p><strong>2019-02-05 1900</strong> — General Meeting</p>
+<p><strong>2019-02-05 1900</strong> — General Meeting // cancelled due to weather</p>
+<p><strong>2019-02-12 1830</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-02-12 1900</strong> — General Meeting</p>
 <p><strong>2019-02-15/17</strong>   — Camping weekend</p>
 <p><strong>2019-02-19 1900</strong> — General Meeting</p>
@@ -75,4 +66,5 @@ layout: post
 <p><em>No regular meetings, Valleyfair, RenFest</em></p>
 
 <hr>
+
 <p>If you notice something wrong, or not exactly right, provide feedback to the scoutmaster. To look back in time to see what we have done, visit <a href="/calendar-archive">/calendar-archive</a></p>

@@ -322,3 +322,11 @@ layout: post
 <p><strong>2018-12-25     </strong> — Merry Christmas!</p>
 <p><strong>2018-12-28 1900/</strong> — Movie night // no snow = no sledding :( </p>
 
+<h3>January 2019</h3>
+<p><em>Court of Honor</em></p>
+<p><strong>2019-01-01     </strong> — Happy New Year!</p>
+<p><strong>2019-01-08 1900</strong> — Patrol Leaders' Council // off-site</p>
+<p><strong>2019-01-15 1900</strong> — General Meeting // First meeting in our new location</p>
+<p><strong>2019-01-22 1900</strong> — Court of Honor</p>
+<p><strong>2019-01-29 1900</strong> — General Meeting <strong class="red">CANCELLED DUE TO WEATHER</strong></p>
+

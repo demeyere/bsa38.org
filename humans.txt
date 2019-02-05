@@ -4,5 +4,5 @@ BSA38.org
 
 A DeMeyere® project.
 
-Design by Ross DeMeyere
+Design and Development by Ross DeMeyere
 http://demeyere.com/
