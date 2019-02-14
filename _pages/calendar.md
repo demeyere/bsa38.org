@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2019-01-14
-revised: 2019-02-04 17:13 
+date: 2019-02-13
+revised: 2019-02-13 19:34 
 permalink: /calendar
 layout: post
 ---
@@ -16,16 +16,18 @@ layout: post
 <p><strong>2019-02-12 1830</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-02-12 1900</strong> — General Meeting</p>
 <p><strong>2019-02-15/17</strong>   — Camping weekend</p>
-<p><strong>2019-02-19 1900</strong> — General Meeting</p>
+<p><strong>2019-02-19 1900</strong> — General Meeting [Klondike prep; GF team building exercise;]</p>
 <p><strong>2019-02-23 </strong> — Klondike Derby</p>
-<p><strong>2019-02-26 1900</strong> — General Meeting</p>
+<p><strong>2019-02-26 1900</strong> — General Meeting [Photography show and Collections Fair]</p>
 
 <h3>March 2019</h3>
 <p><em>Showshoeing, Citizenship in the Community, Coin Collecting MB, OA Elections, Feed My Starving Children, Personal Fitness MB</em></p>
+<p><strong>2019-03-04 1900</strong> — Troop Committee Meeting</p>
 <p><strong>2019-03-05 1830</strong> — Patrol Leaders' Council</p>
-<p><strong>2019-03-05 1900</strong> — General Meeting</p>
+<p><strong>2019-03-05 1900</strong> — General Meeting [Citizen and/or Photography MB] [HC team building exercise]</p>
 <p><strong>2019-03-12 1900</strong> — General Meeting</p>
 <p><strong>2019-03-19 1900</strong> — General Meeting</p>
+<p><strong>2019-03-22 1830?</strong> — (Blue and Gold crossover into 38)</p>
 <p><strong>2019-03-26 1900</strong> — General Meeting</p>
 
 <h3>April 2019</h3>
