@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
 date: 2019-03-05
-revised: 2019-03-05 18:37 
+revised: 2019-03-05 19:04 
 permalink: /calendar
 layout: post
 ---
@@ -14,18 +14,22 @@ layout: post
 <p><em>Showshoeing, Citizenship in the Community, Coin Collecting MB, OA Elections, Feed My Starving Children, Personal Fitness MB</em></p>
 <p><strong>2019-03-04 1900</strong> — Troop Committee Meeting (in the Parlor)</p>
 <p><strong>2019-03-05 1830</strong> — Patrol Leaders' Council</p>
-<p><strong>2019-03-05 1900</strong> — General Meeting [Citizen and/or Photography MB] [HC team building exercise]</p>
+<p><strong>2019-03-05 1900</strong> — General Meeting [HC team building exercise]</p>
 <p><strong>2019-03-12 1900</strong> — General Meeting</p>
-<p><strong>2019-03-19 1900</strong> — General Meeting</p>
-<p><strong>2019-03-22 1830?</strong> — (Blue and Gold crossover into 38)</p>
+<p><strong>2019-03-18 1900</strong> — ??? Bloomington City Council ???</p>
+<p><strong>2019-03-19 1900</strong> — General Meeting // Personal Fitness MB</p>
+<p><strong>2019-03-22 1830?</strong> — a (Blue and Gold crossover into 38)</p>
+<p><strong>2019-03-23 0900/1100 Saturday</strong> — Feed My Starving Children</p>
 <p><strong>2019-03-26 1900</strong> — General Meeting</p>
 
 <h3>April 2019</h3>
 <p><em>Personal Fitness MB, SPL Election, Backpacking weekend, Hiking MB, FMSC</em></p>
-<p><strong>2019-04-02 1830</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-04-02 1900</strong> — General Meeting</p>
+<p><strong>2019-04-09 1830</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-04-09 1900</strong> — General Meeting</p>
-<p><strong>2019-04-16 1900</strong> — General Meeting</p>
+<p><strong>2019-04-12/13</strong> — ??? CPR Lockin ???</p>
+<p><strong>2019-04-16 1900</strong> — General Meeting // Music MB</p>
+<p><strong>2019-04-21</strong>      — Easter Sunday</p>
 <p><strong>2019-04-23 1900</strong> — General Meeting</p>
 <p><strong>2019-04-30 1900</strong> — General Meeting</p>
 
