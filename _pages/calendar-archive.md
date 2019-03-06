@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2018-10-14
-revised: 2018-10-14 12:48 
+date: 2019-03-05
+revised: 2019-03-05 18:37 
 permalink: /calendar-archive
 layout: post
 ---
@@ -330,3 +330,12 @@ layout: post
 <p><strong>2019-01-22 1900</strong> — Court of Honor</p>
 <p><strong>2019-01-29 1900</strong> — General Meeting <strong class="red">CANCELLED DUE TO WEATHER</strong></p>
 
+<h3>February 2019</h3>
+<p><em>Showshoeing, Klondike derby, FirstAid/CPR campout, Fort Snelling wreath collection, Scout Sunday</em></p>
+<p><strong>2019-02-05 1900</strong> — General Meeting // cancelled due to weather</p>
+<p><strong>2019-02-12 1830</strong> — Patrol Leaders' Council</p>
+<p><strong>2019-02-12 1900</strong> — General Meeting</p>
+<p><strong>2019-02-15/17</strong>   — Camping weekend</p>
+<p><strong>2019-02-19 1900</strong> — General Meeting [Klondike prep; GF team building exercise;]</p>
+<p><strong>2019-02-23 0700/1600</strong> — Klondike Derby</p>
+<p><strong>2019-02-26 1900</strong> — Photography show and Collections Fair</p>
