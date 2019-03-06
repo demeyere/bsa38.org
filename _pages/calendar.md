@@ -45,7 +45,7 @@ layout: post
 <p><strong>2019-05-07 1900</strong> — General Meeting</p>
 <p><strong>2019-05-14 1900</strong> — General Meeting</p>
 <p><strong>2019-05-17/19</strong>   — Ripley Rendezvous</p>
-<p><strong>2019-05-21 1900</strong> — General Meeting</p>
+<p><strong>2019-05-21 1900</strong> — Court of Honor</p>
 <p><strong>2019-05-28 1900</strong> — General Meeting</p>
 
 <h3>June 2019</h3>
