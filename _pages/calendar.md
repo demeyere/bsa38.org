@@ -17,7 +17,8 @@ layout: post
 <p><strong>2019-03-05 1900</strong> — General Meeting [HC team building exercise]</p>
 <p><strong>2019-03-12 1900</strong> — General Meeting</p>
 <p><strong>2019-03-19 1900</strong> — General Meeting // Personal Fitness MB</p>
-<p><strong>2019-03-22 1830?</strong> — a (Blue and Gold crossover into 38)</p>
+<p><strong>2019-03-29 1800/2000</strong> — a (Blue and Gold crossover into 38)</p>
+   <!-- At Mount Olivet Church, 5025 Knox Avenue South. In the basement under the chapel in the fellowship hall. Pack 110 -->
 <p><strong>2019-03-23 0900/1100 Saturday</strong> — Feed My Starving Children</p>
 <p><strong>2019-03-25 1830</strong> — Bloomington City Council Meeting</p>
 <p><strong>2019-03-26 1900</strong> — General Meeting</p>
