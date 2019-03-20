@@ -20,13 +20,13 @@ layout: post
 <p><strong>2019-03-29 1800/2000</strong> — a (Blue and Gold crossover into 38)</p>
    <!-- At Mount Olivet Church, 5025 Knox Avenue South. In the basement under the chapel in the fellowship hall. Pack 110 -->
 <p><strong>2019-03-23 0900/1100 Saturday</strong> — Feed My Starving Children</p>
-<p><strong>2019-03-25 1830</strong> — Bloomington City Council Meeting</p>
 <p><strong>2019-03-26 1900</strong> — General Meeting</p>
 
 <h3>April 2019</h3>
 <p><em>Personal Fitness MB, SPL Election, Backpacking weekend, Hiking MB, FMSC</em></p>
 <p><strong>2019-04-02 1900</strong> — General Meeting</p>
 <p><strong>2019-04-09 1830</strong> — Patrol Leaders' Council</p>
+<p><strong>???</strong> — Bloomington City Council Meeting</p>
 <p><strong>2019-04-09 1900</strong> — General Meeting</p>
 <p><strong>2019-04-12/13</strong> — ??? First Aid Skills Lock In ???</p>
 <p><strong>2019-04-16 1900</strong> — General Meeting // Music MB</p>
