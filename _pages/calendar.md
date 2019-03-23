@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
 date: 2019-03-06
-revised: 2019-03-06 09:49 
+revised: 2019-03-22 19:43 
 permalink: /calendar
 layout: post
 ---
@@ -26,9 +26,9 @@ layout: post
 <p><em>Personal Fitness MB, SPL Election, Backpacking weekend, Hiking MB, FMSC</em></p>
 <p><strong>2019-04-02 1900</strong> — General Meeting</p>
 <p><strong>2019-04-09 1830</strong> — Patrol Leaders' Council</p>
-<p><strong>???</strong> — Bloomington City Council Meeting</p>
 <p><strong>2019-04-09 1900</strong> — General Meeting</p>
 <p><strong>2019-04-12/13</strong> — ??? First Aid Skills Lock In ???</p>
+<p><strong>2019-04-15</strong> — Bloomington City Council Meeting</p>
 <p><strong>2019-04-16 1900</strong> — General Meeting // Music MB</p>
 <p><strong>2019-04-21</strong>      — Easter Sunday</p>
 <p><strong>2019-04-23 1900</strong> — General Meeting</p>
