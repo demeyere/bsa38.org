@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2019-03-05
-revised: 2019-03-05 18:37 
+date: 2019-04-09
+revised: 2019-04-09 18:44 
 permalink: /calendar-archive
 layout: post
 ---
@@ -339,3 +339,16 @@ layout: post
 <p><strong>2019-02-19 1900</strong> — General Meeting [Klondike prep; GF team building exercise;]</p>
 <p><strong>2019-02-23 0700/1600</strong> — Klondike Derby</p>
 <p><strong>2019-02-26 1900</strong> — Photography show and Collections Fair</p>
+
+<h3>March 2019</h3>
+<p><em>Showshoeing, Citizenship in the Community, Coin Collecting MB, OA Elections, Feed My Starving Children, Personal Fitness MB</em></p>
+<p><strong>2019-03-04 1900</strong> — Troop Committee Meeting (in the Parlor)</p>
+<p><strong>2019-03-05 1830</strong> — Patrol Leaders' Council</p>
+<p><strong>2019-03-05 1900</strong> — General Meeting [HC team building exercise]</p>
+<p><strong>2019-03-12 1900</strong> — General Meeting</p>
+<p><strong>2019-03-19 1900</strong> — General Meeting // Personal Fitness MB</p>
+<p><strong>2019-03-29 1800/2000</strong> — a (Blue and Gold crossover into 38)</p>
+   <!-- At Mount Olivet Church, 5025 Knox Avenue South. In the basement under the chapel in the fellowship hall. Pack 110 -->
+<p><strong>2019-03-23 0900/1100 Saturday</strong> — Feed My Starving Children</p>
+<p><strong>2019-03-26 1900</strong> — General Meeting</p>
+
