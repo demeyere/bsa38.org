@@ -23,7 +23,6 @@ layout: post
 
 <h3>May 2019</h3>
 <p><em>Fishing MB, Court of Honor, Camporee, Backpacking MB, Hiking MB</em></p>
-<p><strong>2019-05-03/05</strong>   — ??? Camporee at Phillippo ???</p>
 <p><strong>2019-05-07 1830</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-05-07 1900</strong> — General Meeting</p>
 <p><strong>2019-05-10/11</strong>   — First Aid Skills Lock In</p>
