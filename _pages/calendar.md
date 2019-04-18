@@ -26,6 +26,7 @@ layout: post
 <p><strong>2019-05-07 1830</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-05-07 1900</strong> — General Meeting</p>
 <p><strong>2019-05-10/11</strong>   — First Aid Skills Lock In</p>
+<p><strong>2019-05-13 1900</strong> — Troop Committee Meeting (in the Parlor)</p>
 <p><strong>2019-05-14 1900</strong> — General Meeting</p>
 <p><strong>2019-05-17/19</strong>   — Ripley Rendezvous</p>
 <p><strong>2019-05-21 1900</strong> — General Meeting</p>
