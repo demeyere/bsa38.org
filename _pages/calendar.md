@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2019-04-09
-revised: 2019-04-09 18:42 
+date: 2019-05-30
+revised: 2019-05-30 16:19
 permalink: /calendar
 layout: post
 ---
@@ -10,33 +10,13 @@ layout: post
 
 <p><em>*everything is subject to change...</em></p>
 
-<h3>April 2019</h3>
-<p><em>Personal Fitness MB, SPL Election, Hiking MB, FMSC</em></p>
-<p><strong>2019-04-02 1900</strong> — General Meeting</p>
-<p><strong>2019-04-09 1830</strong> — Patrol Leaders' Council</p>
-<p><strong>2019-04-09 1900</strong> — General Meeting</p>
-<p><strong>2019-04-15 1830</strong> — Bloomington City Council Meeting</p>
-<p><strong>2019-04-16 1900</strong> — General Meeting // Music MB</p>
-<p><strong>2019-04-21</strong>      — Easter Sunday</p>
-<p><strong>2019-04-23 1900</strong> — General Meeting</p>
-<p><strong>2019-04-30 1900</strong> — General Meeting</p>
-
-<h3>May 2019</h3>
-<p><em>Fishing MB, Court of Honor, Camporee, Backpacking MB, Hiking MB</em></p>
-<p><strong>2019-05-07 1830</strong> — Patrol Leaders' Council</p>
-<p><strong>2019-05-07 1900</strong> — General Meeting</p>
-<p><strong>2019-05-10/11</strong>   — First Aid Skills Lock In</p>
-<p><strong>2019-05-13 1900</strong> — Troop Committee Meeting (in the Parlor)</p>
-<p><strong>2019-05-14 1900</strong> — General Meeting</p>
-<p><strong>2019-05-17/19</strong>   — Ripley Rendezvous</p>
-<p><strong>2019-05-21 1900</strong> — General Meeting</p>
-<p><strong>2019-05-28 1900</strong> — Court of Honor</p>
-
 <h3>June 2019</h3>
 <p><em>FCA Canoe weekend, swimming pre-test, annual planning conference</em></p>
+<p><strong>2019-06-02 0800</strong> — 10 mile hike</p>
 <p><strong>2019-06-04 1830</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-06-04 1900</strong> — General Meeting</p>
 <p><strong>2019-06-11 1900</strong> — General Meeting</p>
+<p><strong>2019-06-13 1900</strong> — Fishing (away)</p>
 <p><strong>2019-06-18 1900</strong> — General Meeting</p>
 <!-- 23/29 Grey Wolf week 2 Eþan, Carter staff and Tim participates -->
 <p><strong>2019-06-25 1900</strong> — General Meeting</p>
@@ -44,6 +24,7 @@ layout: post
 <h3>July 2019</h3>
 <p><em>Many Point</em></p>
 <p><strong>2019-07-02</strong> — Happy Fourth of July week!</p>
+<p><strong>2019-07-08 1900</strong> — Troop Committee Meeting</p>
 <p><strong>2019-07-09 1830</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-07-09 1900</strong> — General Meeting</p>
 <p><strong>2019-07-16 1900</strong> — General Meeting</p>
@@ -51,6 +32,8 @@ layout: post
 
 <h3>August 2019</h3>
 <p><em>No regular meetings, Valleyfair, RenFest</em></p>
+
+<!-- The popcorn sale starts Friday, 9/20/19 at 5pm, and ends 10/27/19 at midnight. -->
 
 <hr>
 
