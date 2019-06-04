@@ -13,7 +13,7 @@ layout: post
 <h3>June 2019</h3>
 <p><em>FCA Canoe weekend, swimming pre-test, annual planning conference</em></p>
 <p><strong>2019-06-02 0800</strong> — 10 mile hike</p>
-<p><strong>2019-06-04 1830</strong> — Patrol Leaders' Council</p>
+<p><strong>2019-06-04 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-06-04 1900</strong> — General Meeting</p>
 <p><strong>2019-06-11 1900</strong> — General Meeting</p>
 <p><strong>2019-06-13 1900</strong> — Fishing (away)</p>
@@ -25,7 +25,7 @@ layout: post
 <p><em>Many Point</em></p>
 <p><strong>2019-07-02</strong> — Happy Fourth of July week!</p>
 <p><strong>2019-07-08 1900</strong> — Troop Committee Meeting</p>
-<p><strong>2019-07-09 1830</strong> — Patrol Leaders' Council</p>
+<p><strong>2019-07-09 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-07-09 1900</strong> — General Meeting</p>
 <p><strong>2019-07-16 1900</strong> — General Meeting</p>
 <p><strong>2019-07-21/27  </strong> — Many Point Scout Camp (that's the place to be.)</p>
