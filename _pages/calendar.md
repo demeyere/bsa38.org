@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2019-05-30
-revised: 2019-05-30 16:19
+date: 2019-06-05
+revised: 2019-06-05 15:22
 permalink: /calendar
 layout: post
 ---
@@ -15,11 +15,14 @@ layout: post
 <p><strong>2019-06-02 0800</strong> — 10 mile hike</p>
 <p><strong>2019-06-04 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-06-04 1900</strong> — General Meeting</p>
+<p><strong>2019-06-08 0900/1130</strong> — Equipment moving</p>
 <p><strong>2019-06-11 1900</strong> — General Meeting</p>
 <p><strong>2019-06-13 1900</strong> — Fishing (away)</p>
+<p><strong>2019-06-15 0830/1100</strong> — Feed My Starving Children (away)</p>
 <p><strong>2019-06-18 1900</strong> — General Meeting</p>
 <!-- 23/29 Grey Wolf week 2 Eþan, Carter staff and Tim participates -->
 <p><strong>2019-06-25 1900</strong> — General Meeting</p>
+<p><strong>2019-06-28/30</strong> — Weekend campout</p>
 
 <h3>July 2019</h3>
 <p><em>Many Point</em></p>
