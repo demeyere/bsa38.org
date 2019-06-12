@@ -30,6 +30,7 @@ layout: post
 <p><strong>2019-07-08 1900</strong> — Troop Committee Meeting</p>
 <p><strong>2019-07-09 1815</strong> — Patrol Leaders' Council</p>
 <p><strong>2019-07-09 1900</strong> — General Meeting</p>
+<p><strong>2019-07-15 2030</strong> — Squalls</p>
 <p><strong>2019-07-16 1900</strong> — General Meeting</p>
 <p><strong>2019-07-21/27  </strong> — Many Point Scout Camp (that's the place to be.)</p>
 
