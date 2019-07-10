@@ -1,7 +1,7 @@
 ---
 title: Troop 38 calendar
-date: 2019-06-12
-revised: 2019-06-12 08:57
+date: 2019-07-10
+revised: 2019-07-10 06:09 
 permalink: /calendar
 layout: post
 ---
@@ -36,9 +36,13 @@ layout: post
 <p><strong>2019-07-21/27  </strong> — Many Point Scout Camp (that's the place to be.)</p>
 
 <h3>August 2019</h3>
-<p><em>No regular meetings, Valleyfair, RenFest, annual planning conference</em></p>
+<p><em>Merit Badge catchup meetings, Valleyfair, RenFest, annual planning conference</em></p>
 
-<!-- The popcorn sale starts Friday, 9/20/19 at 5pm, and ends 10/27/19 at midnight. -->
+<h3>September 2019</h3>
+<p><strong>2019-09-03 1830</strong> — Patrol Leaders' Council</p>
+<p><strong>2019-09-03 1900</strong> — General Meeting</p>
+<p><strong>2019-09-09 1900</strong> — Troop Committee Meeting</p>
+<p><strong>2019-09-20 1700</strong> — The popcorn sale starts Friday, 9/20/19 at 5pm, and ends 10/27/19 at midnight.</p>
 
 <hr>
 
