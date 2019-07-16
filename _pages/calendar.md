@@ -33,7 +33,7 @@ layout: post
 <p><strong>2019-07-14 0800</strong> — 10 mile hike</p>
 <p><strong>2019-07-15 2030</strong> — Squalls</p>
 <p><strong>2019-07-16 1900</strong> — General Meeting // pack</p>
-<p><strong>2019-07-21/27  </strong> — Many Point Scout Camp (that's the place to be.)</p>
+<p><strong>2019-07-21 0630 / 2019-07-27 PM </strong> — Many Point Scout Camp (that's the place to be.)</p>
 <p><strong>2019-07-30 1900</strong> — General Meeting // unpack</p>
 
 <h3>August 2019</h3>
