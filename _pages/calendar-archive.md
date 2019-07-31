@@ -374,3 +374,29 @@ layout: post
 <p><strong>2019-05-21 1900</strong> — General Meeting</p>
 <p><strong>2019-05-28 1900</strong> — Court of Honor</p>
 
+<h3>June 2019</h3>
+<p><em>FCA weekend</em></p>
+<p><strong>2019-06-02 0800</strong> — 10 mile hike</p>
+<p><strong>2019-06-04 1815</strong> — Patrol Leaders' Council</p>
+<p><strong>2019-06-04 1900</strong> — General Meeting</p>
+<p><strong>2019-06-08 0900/1130</strong> — Equipment moving</p>
+<p><strong>2019-06-11 1900</strong> — General Meeting</p>
+<p><strong>2019-06-13 1830</strong> — Fishing (away)</p>
+<p><strong>2019-06-15 0830/1100</strong> — Feed My Starving Children (away)</p>
+<p><strong>2019-06-18 1900</strong> — General Meeting</p>
+<!-- 23/29 Grey Wolf week 2 Eþan, Carter staff and Tim participates -->
+<p><strong>2019-06-25 1900</strong> — General Meeting</p>
+<p><strong>2019-06-28/30</strong> — Weekend campout</p>
+
+<h3>July 2019</h3>
+<p><em>Swimming pre-test, Many Point</em></p>
+<p><strong>2019-07-02</strong> — Happy Fourth of July week!</p>
+<p><strong>2019-07-08 1900</strong> — Troop Committee Meeting</p>
+<p><strong>2019-07-09 1830</strong> — Patrol Leaders' Council</p>
+<p><strong>2019-07-09 1900</strong> — General Meeting</p>
+<p><strong>2019-07-14 0800</strong> — 10 mile hike</p>
+<p><strong>2019-07-15 2030</strong> — Squalls</p>
+<p><strong>2019-07-16 1900</strong> — General Meeting // pack</p>
+<p><strong>2019-07-21 0630 / 2019-07-27 PM </strong> — Many Point Scout Camp (that's the place to be.)</p>
+<p><strong>2019-07-30 1900</strong> — General Meeting // unpack</p>
+
